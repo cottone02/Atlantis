@@ -1,0 +1,17 @@
+2022-06-09 11:31:40,183 INFO ||[StartupInfoLogger.java:55][logStarting] Starting BeAtlantisApplication using Java 11.0.12 on PC-ANDREA-COTTONE with PID 26120 (C:\Users\andre\Documents\TESEO\NEW\TESEO\trunk\BE_ATLANTIS\atlantis\target\classes started by andre in C:\Users\andre\Documents\TESEO\NEW\TESEO\trunk\BE_ATLANTIS\atlantis)
+2022-06-09 11:31:40,214 DEBUG||[StartupInfoLogger.java:56][logStarting] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 11:31:40,267 INFO ||[SpringApplication.java:634][logStartupProfileInfo] No active profile set, falling back to 1 default profile: "default"
+2022-06-09 11:31:44,462 ERROR||[LoggingFailureAnalysisReporter.java:40][report] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
